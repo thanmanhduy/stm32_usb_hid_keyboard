@@ -110,7 +110,7 @@ int main(void)
 			{
 				keyPausePlay();
 				keyPressing = 1;
-				HAL_Delay(50);
+				HAL_Delay(30);
 			}
     }
 		else
